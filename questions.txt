@@ -1,0 +1,24 @@
+¿Es un animal?
+¿Tiene patas?
+¿Es un mamifero?
+¿Es principalmente carnivoro?
+¿Pertenece a mares, lagos o rios?
+¿Se lo puede domesticar?
+¿Puede ser de volumen grande?
+¿Tiene pelaje?
+¿Es un depredador?
+¿Vuela?
+¿Es usualmente agresivo?
+¿Se encuentra con facilidad en las granjas?
+¿Es un animal comúnmente adoptado por las personas?
+¿Tiene garras?
+¿Es un animal que suele vivir en un habitat salvaje?
+¿Se lo puede encontrar en los desiertos?
+¿Es un animal con cuernos?
+¿Es famoso por su rapidez?
+¿Es un animal con buenos reflejos?
+¿Es un animal que se usa con constancia en shows?
+
+
+
+
